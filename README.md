@@ -6,52 +6,17 @@ Recientemente completé el proyecto Ticket Management API en Java, donde trabaj�
 
 Paralelamente, estoy ampliando mis competencias en **ciberseguridad** aplicada al desarrollo de software, apoyándome en un curso de especialización en ciberseguridad, y en Python, mientras busco mi primera oportunidad profesional.
 
----
-
-## 💻 Proyectos Destacados
-
-Proyectos personales desarrollados para reforzar mis conocimientos en programación, buenas prácticas y seguridad:
-
-### [Ticket Management API - Java](https://github.com/JJHernan-dev/ticket-management-backend)
-API REST desarrollada con **Spring Boot, JPA y PostgreSQL**, aplicando arquitectura en capas, validaciones y documentación con **Swagger** para la gestión de tickets de soporte.
-
-### [To Do List – Java](https://github.com/JJHernan-dev/to-do-list-javafx)
-Aplicación de escritorio para gestionar tareas de manera sencilla y visual. Permite **añadir, editar, eliminar y marcar tareas como completadas**, con persistencia de datos y una interfaz intuitiva.
-
-### [Gestor de Contraseñas – C# WPF](https://github.com/JJHernan-dev/PasswordManager)
-Aplicación de escritorio desarrollada con **C# y WPF** que implementa **encriptación** para el almacenamiento seguro de contraseñas.
-
-### [Portfolio Personal – HTML & CSS](https://jjhernan-dev.github.io/)
-Portfolio creado desde cero usando HTML y CSS para mostrar mis proyectos y habilidades. Muestra mi atención al detalle en diseño y maquetación web.
-
----
-
-## 🛠 Tecnologías y Herramientas
-
-He trabajado con estas tecnologías durante mi formación y en proyectos personales, y sigo ampliando mis competencias:
-
-**Lenguajes y Frameworks:**  
-Java, Spring Boot, C#, WPF, Python, HTML, CSS
-
-**Bases de Datos y Persistencia:**  
-PostgreSQL, SQL, JPA / Hibernate
-
-**Desarrollo y Documentación:**  
-REST APIs, Swagger / OpenAPI, Maven
-
-**Control de Versiones:**  
-Git / GitHub
-
-**Otros intereses:**  
-Ciberseguridad aplicada al desarrollo de software
-
----
-
-## 📫 Contacto
-
-Estoy abierto a **colaboraciones, oportunidades profesionales o networking**:
-
-- [LinkedIn](tu-enlace-linkedin)
-- [Correo electrónico](mailto:tu-correo@example.com)
-
----
+**Tecnologías que he ido usando:**
+![Java](https://img.shields.io/badge/Java-17-orange)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-Framework-brightgreen)
+![REST API](https://img.shields.io/badge/REST-API-blue)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791)
+![Hibernate](https://img.shields.io/badge/JPA-Hibernate-red)
+![Maven](https://img.shields.io/badge/Maven-Build_C6332A)
+![Swagger](https://img.shields.io/badge/Swagger-OpenAPI-85EA2D)
+![C#](https://img.shields.io/badge/C%23-.NET-purple)
+![WPF](https://img.shields.io/badge/WPF-Desktop-512BD4)
+![HTML5](https://img.shields.io/badge/HTML5-Markup-E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-Styles-1572B6)
+![Git](https://img.shields.io/badge/Git-Version_Control-F05032)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-black)
