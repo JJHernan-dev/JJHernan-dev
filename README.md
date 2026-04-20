@@ -1,10 +1,12 @@
-# 👋 ¡Hola! Soy Juan Jesús González Hernández
+# 💻 Desarrollador Backend Junior especializado en Java y Spring Boot
 
-Desarrollador Junior con formación en **Desarrollo de Aplicaciones Multiplataforma**, enfocado en el desarrollo backend con **Java** y **Spring Boot**.
+Graduado en Desarrollo de Aplicaciones Multiplataforma (DAM), con experiencia en el desarrollo de APIs REST y gestión de bases de datos relacionales (PostgreSQL).
 
-He desarrollado proyectos propios como APIs REST y aplicaciones de escritorio, utilizando tecnologías como Java, Spring Boot, PostgreSQL, JPA/Hibernate y C# con WPF. Me interesa especialmente aplicar buenas prácticas de desarrollo, arquitectura limpia y seguridad en aplicaciones.
+He desarrollado proyectos propios aplicando arquitectura en capas, JPA/Hibernate y documentación con Swagger, así como aplicaciones de escritorio con C# y WPF.
 
-Actualmente estoy ampliando mis conocimientos en testing y ciberseguridad, mientras busco mi primera oportunidad profesional en el sector IT.
+Me enfoco en escribir código limpio y mantenible, aplicando buenas prácticas de desarrollo, principios de programación orientada a objetos y bases de seguridad en aplicaciones.
+
+Actualmente ampliando conocimientos en testing y ciberseguridad, mientras busco mi primera oportunidad profesional como desarrollador backend.
 
 ## 🛠 Tecnologías principales
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
