@@ -1,4 +1,4 @@
-# 💻 Desarrollador Backend Junior especializado en Java y Spring Boot
+# 💻 Desarrollador Backend Junior Java y Spring Boot
 
 Graduado en Desarrollo de Aplicaciones Multiplataforma (DAM), con experiencia en el desarrollo de APIs REST y gestión de bases de datos relacionales (PostgreSQL).
 
