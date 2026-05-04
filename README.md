@@ -1,8 +1,10 @@
 # 💻 Técnico IT / Sistemas | Base en desarrollo (Java, C#)
 
-Graduado en Desarrollo de Aplicaciones Multiplataforma (DAM) y Técnico en Sistemas Microinformáticos y Redes (SMR), con conocimientos en administración de sistemas, redes y fundamentos de ciberseguridad.
+Desarrollo soluciones combinando backend, sistemas y ciberseguridad.
 
-He desarrollado proyectos backend con Java y Spring Boot, así como aplicaciones de escritorio en C# (WPF), lo que me permite entender tanto el desarrollo como la infraestructura donde se ejecutan las aplicaciones.
+Trabajo con Java y Spring Boot en APIs REST, y con C# (WPF) en aplicaciones de escritorio, lo que me permite entender tanto el desarrollo como el entorno donde se ejecutan las aplicaciones.
+
+Me interesa construir proyectos completos: desde la lógica de negocio hasta la infraestructura y la seguridad, aplicando buenas prácticas, validación de datos y manejo de errores.
 
 #  Portfolio
 
