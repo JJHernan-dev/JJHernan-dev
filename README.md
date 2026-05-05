@@ -4,11 +4,17 @@
 <p align="center">
   <a href="https://jjhernan-dev.github.io/" style="display:inline-block; text-decoration:none; border:none; outline:none;">
     <img src="https://img.shields.io/badge/Portfolio-Online-163082?style=for-the-badge" />
-  </a>
+  </a>  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/juanjesus-gh/" style="display:inline-block; text-decoration:none; border:none; outline:none;">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil-163082?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
+<br>
+
+<hr style="width:80%;height:3px;border:none;background:linear-gradient(to right, transparent, #1e40af, transparent);">
+
+<br>
 
 #  Sobre mi
 
