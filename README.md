@@ -10,7 +10,9 @@
 
 <br>
 
-<hr style="width:80%;height:3px;border:none;background:linear-gradient(to right, transparent, #1e40af, transparent);">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1220,100:1e40af&height=2" />
+</p>
 
 <br>
 
