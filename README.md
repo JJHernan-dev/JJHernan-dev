@@ -2,12 +2,11 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=1E40AF&center=true&vCenter=true&width=700&lines=Backend+Developer+%7C+Java+%7C+C%23;IT+Systems+%26+Infrastructure;Building+secure+and+scalable+systems)
 
 <p align="center">
-  <a href="https://jjhernan-dev.github.io/">
-    <img src="https://img.shields.io/badge/Portfolio-Online-163082?style=for-the-badge"/>
+  <a href="https://jjhernan-dev.github.io/" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Portfolio-Online-163082?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/TU-LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-163082?style=for-the-badge"/>
+  <a href="https://www.linkedin.com/in/juanjesus-gh/" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/💼 LinkedIn-Perfil-163082?style=for-the-badge" />
   </a>
 </p>
 
@@ -33,17 +32,17 @@ Proyectos destacados que voy realizando de forma autodidacta.
 
 ## Tecnologías y herramientas
 
-### Sistemas y redes
+#### Sistemas y redes
 ![Linux](https://img.shields.io/badge/Linux-163082?style=for-the-badge&logo=linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-163082?style=for-the-badge&logo=windows&logoColor=white)
 
-### Backend & Dev
+#### Backend & Dev
 ![Java](https://img.shields.io/badge/Java-163082?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-163082?style=for-the-badge&logo=springboot&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-163082?style=for-the-badge&logo=csharp&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-163082?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Ciberseguridad
+#### Ciberseguridad
 ![Wireshark](https://img.shields.io/badge/Wireshark-163082?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-163082?style=for-the-badge)
 ![OpenVAS](https://img.shields.io/badge/OpenVAS-163082?style=for-the-badge)
