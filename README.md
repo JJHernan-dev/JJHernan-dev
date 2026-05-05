@@ -16,10 +16,6 @@
 
 <br>
 
-
-
-<br>
-
 #  Sobre mi
 
 Desarrollo soluciones combinando backend, sistemas y ciberseguridad.
