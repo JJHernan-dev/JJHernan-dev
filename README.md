@@ -3,12 +3,12 @@
 
 <div align="center">
 
-<a href="https://jjhernan-dev.github.io/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Portfolio-Online-163082?style=for-the-badge&logo=google-chrome&logoColor=white" />
+<a href="https://jjhernan-dev.github.io/" style="text-decoration:none; border:0;">
+  <img src="https://img.shields.io/badge/Portfolio-Online-163082?style=for-the-badge&logo=google-chrome&logoColor=white" style="border:0; display:inline-block;" />
 </a>
 &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/juanjesus-gh/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-Perfil-163082?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/juanjesus-gh/" style="text-decoration:none; border:0;">
+  <img src="https://img.shields.io/badge/LinkedIn-Perfil-163082?style=for-the-badge&logo=linkedin&logoColor=white" style="border:0; display:inline-block;" />
 </a>
 
 </div>
