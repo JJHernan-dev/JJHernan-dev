@@ -2,11 +2,11 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=1E40AF&center=true&vCenter=true&width=700&lines=Backend+Developer+%7C+Java+%7C+C%23;IT+Systems+%26+Infrastructure;Building+secure+and+scalable+systems)
 
 <p align="center">
-  <a href="https://jjhernan-dev.github.io/" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Portfolio-Online-163082?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <a href="https://jjhernan-dev.github.io/" style="display:inline-block; text-decoration:none; border:none; outline:none;">
+    <img src="https://img.shields.io/badge/Portfolio-Online-163082?style=for-the-badge" />
   </a>
-  <a href="https://www.linkedin.com/in/juanjesus-gh/" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/💼 LinkedIn-Perfil-163082?style=for-the-badge" />
+  <a href="https://www.linkedin.com/in/juanjesus-gh/" style="display:inline-block; text-decoration:none; border:none; outline:none;">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-163082?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
