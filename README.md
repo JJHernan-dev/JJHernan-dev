@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,50:1e40af,100:60a5fa&height=240&section=header&text=JUAN%20JESÚS%20GONZÁLEZ%20HERNÁNDEZ&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=T%C3%A9cnico%20IT%20%2F%20Sistemas%20%7C%20Base%20en%20desarrollo%20(Java%2C%20C%23)&descSize=20&descAlignY=55)
-
 Desarrollo soluciones combinando backend, sistemas y ciberseguridad.
 
 Trabajo con Java y Spring Boot en APIs REST, y con C# (WPF) en aplicaciones de escritorio, lo que me permite entender tanto el desarrollo como el entorno donde se ejecutan las aplicaciones.
@@ -33,4 +32,4 @@ Proyectos destacados que voy realizando de forma autodidacta.
 
 #### Ciberseguridad: Nmap · Wireshark · Nessus Essentials · OpenVAS
 
-
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,50:1e40af,100:60a5fa&height=120&section=footer)
