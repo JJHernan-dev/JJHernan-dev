@@ -1,9 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,50:1e40af,100:60a5fa&height=240&section=header&text=JUAN%20JESÚS%20GONZÁLEZ%20HERNÁNDEZ&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=T%C3%A9cnico%20IT%20%2F%20Sistemas%20%7C%20Base%20en%20desarrollo%20(Java%2C%20C%23)&descSize=20&descAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,50:1e40af,100:60a5fa&height=240&section=header&text=JUAN%20JES%C3%9AS%20GONZ%C3%81LEZ%20HERN%C3%81NDEZ&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Backend%20Developer%20%28Java%2C%20Spring%20Boot%2C%20C%23%29%20%7C%20T%C3%A9cnico%20IT%20%2F%20Sistemas%20%7C%20Ciberseguridad&descSize=15&descAlignY=50)
 
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=1E40AF&center=true&vCenter=true&width=700&lines=Backend+Developer+%7C+Java+%7C+C%23;IT+Systems+%26+Infrastructure;Building+secure+and+scalable+systems)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=1E40AF&center=true&vCenter=true&width=700&lines=Backend+Developer+%7C+Java+%7C+C%23;IT+Systems+%26+Infrastructure;Building+secure+and+scalable+systems;Cybersecurity)
 
 </div>
 
