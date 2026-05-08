@@ -27,6 +27,8 @@ Me interesa construir proyectos completos: desde la lógica de negocio hasta la 
 
 Proyectos destacados que voy realizando de forma autodidacta.
 
+- <a href="https://github.com/JJHernan-dev/owasp-security-lab">owasp-security-lab</a>
+
 - <a href="https://github.com/JJHernan-dev/user-auth-api">USER AUTH API</a>
 
 - <a href="https://github.com/JJHernan-dev/ticket-management-backend">Ticket Management API</a>
