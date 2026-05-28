@@ -11,8 +11,10 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Online-163082?style=for-the-badge&logo=google-chrome&logoColor=white)](https://jjhernan-dev.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-163082?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanjesus-gh/)
+[![WEB](https://img.shields.io/badge/WEB-Mithrandir%20Sentinel-163082?style=for-the-badge)](https://jjhernan-dev.github.io/projects/mithrandir-sentinel/)
 
 </div>
+
 
 
 #  Sobre mi
@@ -45,16 +47,19 @@ Proyectos destacados que voy realizando de forma autodidacta.
 ![Linux](https://img.shields.io/badge/Linux-163082?style=for-the-badge&logo=linux&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-163082?style=for-the-badge&logo=windows&logoColor=white)
 
-#### Backend & Dev
+#### Backend & Desarrollo
 ![Java](https://img.shields.io/badge/Java-163082?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-163082?style=for-the-badge&logo=springboot&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-163082?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-163082?style=for-the-badge&logo=dotnet&logoColor=white)
+![WPF](https://img.shields.io/badge/WPF-163082?style=for-the-badge)
+![MVVM](https://img.shields.io/badge/MVVM-163082?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-163082?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-163082?style=for-the-badge&logo=git&logoColor=white)
 
 #### Ciberseguridad
 ![Wireshark](https://img.shields.io/badge/Wireshark-163082?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-163082?style=for-the-badge)
 ![OpenVAS](https://img.shields.io/badge/OpenVAS-163082?style=for-the-badge)
 ![Nessus](https://img.shields.io/badge/Nessus-163082?style=for-the-badge)
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,50:1e40af,100:60a5fa&height=120&section=footer)
