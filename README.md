@@ -37,9 +37,9 @@ Proyectos destacados que voy realizando de forma autodidacta.
 
 - <a href="https://github.com/JJHernan-dev/ticket-management-backend">Ticket Management API</a>
 
-- <a href="https://github.com/JJHernan-dev/PasswordManager">Password Manager (WPF)</a>
+- <a href="https://github.com/JJHernan-dev/PasswordManager">Password Manager</a>
 
-- <a href="https://github.com/JJHernan-dev/to-do-list-javafx">Gestor de Tareas (To-Do List) - JavaFX</a>
+- <a href="https://github.com/JJHernan-dev/to-do-list-javafx">Gestor de Tareas</a>
 
 ## Tecnologías y herramientas
 
