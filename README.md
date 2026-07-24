@@ -26,7 +26,7 @@ Actualmente trabajo con tecnologías como Java, Spring Boot, C#/.NET, Linux, Doc
 
 
 
-#  PROYECTOS
+#  Proyectos
 
 
 [![Mithrandir Sentinel](https://img.shields.io/badge/Mithrandir%20Sentinel-163082?style=for-the-badge&logo=dotnet&logoColor=white)](https://github.com/JJHernan-dev/Mithrandir-Sentinel)
