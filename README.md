@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,50:1e40af,100:60a5fa&height=240&section=header&text=JUAN%20JESÚS%20GONZÁLEZ%20HERNÁNDEZ&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=T%C3%A9cnico%20IT%20%7C%20Sistemas%20y%20Ciberseguridad&descSize=18&descAlignY=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,50:1e40af,100:60a5fa&height=240&section=header&text=JUAN%20JESÚS%20GONZÁLEZ%20HERNÁNDEZ&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=T%C3%A9cnico%20IT%20%7C%20Sistemas%20y%20Ciberseguridad%20%C2%B7%20Desarrollo%20de%20Software&descSize=18&descAlignY=50)
 
 
 <div align="center">
