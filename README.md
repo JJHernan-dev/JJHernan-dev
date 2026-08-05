@@ -28,7 +28,7 @@ Actualmente trabajo con tecnologías como Java, Spring Boot, C#/.NET, Linux, Doc
 
 #  Proyectos
 
-[![Blue Team HomeLab](https://img.shields.io/badge/Blue%20Team%20HomeLab-163082?style=for-the-badge&logo=shield&logoColor=white)](https://github.com/JJHernan-dev/Blue-Team-HomeLab)
+[![Blue Team HomeLab](https://img.shields.io/badge/Blue%20Team%20HomeLab-163082?style=for-the-badge&logo=proxmox&logoColor=white)](https://github.com/JJHernan-dev/Blue-Team-HomeLab)
 
 [![Mithrandir Sentinel](https://img.shields.io/badge/Mithrandir%20Sentinel-163082?style=for-the-badge&logo=dotnet&logoColor=white)](https://github.com/JJHernan-dev/Mithrandir-Sentinel)
 
