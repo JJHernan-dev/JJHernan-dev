@@ -17,11 +17,11 @@
 
 #  Sobre mí
 
-Mi perfil profesional se sitúa en la intersección entre los sistemas, el desarrollo de software y la ciberseguridad. Mi objetivo es continuar creciendo dentro del sector IT mediante el aprendizaje continuo, la formación técnica y el desarrollo de proyectos prácticos.
+Mi perfil combina sistemas, desarrollo de software y ciberseguridad, con especial interés en sistemas IT y desarrollo backend con Java y Spring Boot.
 
-Mi formación en Sistemas Microinformáticos y Redes, Desarrollo de Aplicaciones Multiplataforma y Ciberseguridad me ha permitido adquirir conocimientos en áreas como la administración de sistemas, el desarrollo de Software, las redes y la seguridad defensiva.
+Mi formación en Sistemas Microinformáticos y Redes, Desarrollo de Aplicaciones Multiplataforma y Ciberseguridad me ha permitido construir una base técnica transversal en administración de sistemas, redes, desarrollo de software y seguridad defensiva.
 
-Actualmente trabajo con tecnologías como Java, Spring Boot, C#/.NET, Linux, Docker y PostgreSQL, desarrollando proyectos personales y laboratorios técnicos que me permiten seguir ampliando conocimientos y documentar mi evolución profesional.
+En este perfil encontrarás proyectos personales y laboratorios técnicos desarrollados con tecnologías como Java, Spring Boot, C#/.NET, Linux, Docker y PostgreSQL, orientados a aplicar conocimientos, resolver problemas y seguir desarrollando mis competencias técnicas.
 
 
 
