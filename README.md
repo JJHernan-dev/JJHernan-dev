@@ -28,8 +28,6 @@ En este perfil encontrarás proyectos personales y laboratorios técnicos desarr
 
 #  Proyectos
 
-[![Blue Team HomeLab](https://img.shields.io/badge/Blue%20Team%20HomeLab-163082?style=for-the-badge&logo=proxmox&logoColor=white)](https://github.com/JJHernan-dev/Blue-Team-HomeLab)
-
 [![Mithrandir Sentinel](https://img.shields.io/badge/Mithrandir%20Sentinel-163082?style=for-the-badge&logo=dotnet&logoColor=white)](https://github.com/JJHernan-dev/Mithrandir-Sentinel)
 
 [![OWASP Security Lab](https://img.shields.io/badge/OWASP%20Security%20Lab-163082?style=for-the-badge&logo=owasp&logoColor=white)](https://github.com/JJHernan-dev/owasp-security-lab)
