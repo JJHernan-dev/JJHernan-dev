@@ -16,6 +16,8 @@ Aquí encontrarás proyectos personales desarrollados con tecnologías como Java
 
 <br>
 
+[![Banner](img/khazadsec-ot-sentinel-button.svg)](https://github.com/JJHernan-dev/khazadsec-ot-sentinel)
+
 [![Banner](img/mithrandir-sentinel-button.svg)](https://github.com/JJHernan-dev/Mithrandir-Sentinel) [![Banner](img/owasp-security-lab-button.svg)](https://github.com/JJHernan-dev/owasp-security-lab)
 
 
